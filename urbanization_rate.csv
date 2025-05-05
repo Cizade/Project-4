@@ -1,0 +1,267 @@
+country,iso3,year,value
+Africa Eastern and Southern,AFE,2023,38.4248980530256
+Africa Western and Central,AFW,2023,49.7111841247346
+Arab World,ARB,2023,59.4438543814949
+Caribbean small states,CSS,2023,46.7702706882452
+Central Europe and the Baltics,CEB,2023,63.0354532399767
+Early-demographic dividend,EAR,2023,47.0682198755164
+East Asia & Pacific,EAS,2023,62.9823809878791
+East Asia & Pacific (excluding high income),EAP,2023,60.0489417681404
+East Asia & Pacific (IDA & IBRD countries),TEA,2023,60.0098852351415
+Euro area,EMU,2023,77.9563809114008
+Europe & Central Asia,ECS,2023,73.2784818081305
+Europe & Central Asia (excluding high income),ECA,2023,64.3254436139662
+Europe & Central Asia (IDA & IBRD countries),TEC,2023,67.181073022192
+European Union,EUU,2023,75.7010243693148
+Fragile and conflict affected situations,FCS,2023,44.7685871271884
+Heavily indebted poor countries (HIPC),HPC,2023,38.5476985045553
+High income,,2023,81.1523690050232
+IBRD only,IBD,2023,57.9586238894416
+IDA & IBRD total,IBT,2023,52.8142168719889
+IDA blend,IDB,2023,44.6113619381455
+IDA only,IDX,2023,36.8602932436828
+IDA total,IDA,2023,39.4372870426606
+Late-demographic dividend,LTE,2023,66.3703403466461
+Latin America & Caribbean,LCN,2023,81.8011656731215
+Latin America & Caribbean (excluding high income),LAC,2023,81.4058469165042
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2023,81.8143993320891
+Least developed countries: UN classification,LDC,2023,36.4129698967494
+Low & middle income,LMY,2023,52.0694301775767
+Low income,,2023,35.1041622070291
+Lower middle income,,2023,40.9666955216037
+Middle East & North Africa,MEA,2023,66.0558443057929
+Middle East & North Africa (excluding high income),MNA,2023,62.5630812477396
+Middle East & North Africa (IDA & IBRD countries),TMN,2023,62.384706895695
+Middle income,MIC,2023,54.1889534206274
+North America,NAC,2023,83.1473649424646
+Not classified,,2023,
+OECD members,OED,2023,81.6850813922661
+Other small states,OSS,2023,59.6106872230982
+Pacific island small states,PSS,2023,39.5195613366532
+Post-demographic dividend,PST,2023,82.3093253731622
+Pre-demographic dividend,PRE,2023,44.1972682106447
+Small states,SST,2023,54.9444612384532
+South Asia,SAS,2023,36.3282489436825
+South Asia (IDA & IBRD),TSA,2023,36.3282489436825
+Sub-Saharan Africa,SSF,2023,42.9881232794007
+Sub-Saharan Africa (excluding high income),SSA,2023,42.986618074137
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2023,42.9881232794007
+Upper middle income,,2023,68.6543408785223
+World,WLD,2023,57.2502784347054
+Afghanistan,AFG,2023,26.933
+Albania,ALB,2023,64.603
+Algeria,DZA,2023,75.268
+American Samoa,ASM,2023,87.235
+Andorra,AND,2023,87.774
+Angola,AGO,2023,68.688
+Antigua and Barbuda,ATG,2023,24.332
+Argentina,ARG,2023,92.463
+Armenia,ARM,2023,63.739
+Aruba,ABW,2023,44.254
+Australia,AUS,2023,86.617
+Austria,AUT,2023,59.53
+Azerbaijan,AZE,2023,57.577
+"Bahamas, The",BHS,2023,83.625
+Bahrain,BHR,2023,89.869
+Bangladesh,BGD,2023,40.473
+Barbados,BRB,2023,31.425
+Belarus,BLR,2023,80.731
+Belgium,BEL,2023,98.189
+Belize,BLZ,2023,46.608
+Benin,BEN,2023,50.1
+Bermuda,BMU,2023,100.0
+Bhutan,BTN,2023,44.35
+Bolivia,BOL,2023,71.186
+Bosnia and Herzegovina,BIH,2023,50.269
+Botswana,BWA,2023,72.867
+Brazil,BRA,2023,87.788
+British Virgin Islands,VGB,2023,49.748
+Brunei Darussalam,BRN,2023,79.149
+Bulgaria,BGR,2023,76.701
+Burkina Faso,BFA,2023,32.52
+Burundi,BDI,2023,14.784
+Cabo Verde,CPV,2023,67.982
+Cambodia,KHM,2023,25.57
+Cameroon,CMR,2023,59.315
+Canada,CAN,2023,81.862
+Cayman Islands,CYM,2023,100.0
+Central African Republic,CAF,2023,43.614
+Chad,TCD,2023,24.366
+Channel Islands,CHI,2023,31.159
+Chile,CHL,2023,88.012
+China,CHN,2023,64.57
+Colombia,COL,2023,82.354
+Comoros,COM,2023,30.132
+"Congo, Dem. Rep.",COD,2023,47.444
+"Congo, Rep.",COG,2023,69.188
+Costa Rica,CRI,2023,82.622
+Cote d'Ivoire,CIV,2023,53.149
+Croatia,HRV,2023,58.575
+Cuba,CUB,2023,77.523
+Curacao,CUW,2023,89.023
+Cyprus,CYP,2023,66.987
+Czechia,CZE,2023,74.552
+Denmark,DNK,2023,88.495
+Djibouti,DJI,2023,78.552
+Dominica,DMA,2023,72.006
+Dominican Republic,DOM,2023,84.446
+Ecuador,ECU,2023,64.792
+"Egypt, Arab Rep.",EGY,2023,43.1
+El Salvador,SLV,2023,75.393
+Equatorial Guinea,GNQ,2023,74.448
+Eritrea,ERI,2023,43.267
+Estonia,EST,2023,69.81
+Eswatini,SWZ,2023,24.79
+Ethiopia,ETH,2023,23.157
+Faroe Islands,FRO,2023,42.987
+Fiji,FJI,2023,58.713
+Finland,FIN,2023,85.773
+France,FRA,2023,81.777
+French Polynesia,PYF,2023,62.288
+Gabon,GAB,2023,91.029
+"Gambia, The",GMB,2023,64.472
+Georgia,GEO,2023,60.727
+Germany,DEU,2023,77.765
+Ghana,GHA,2023,59.238
+Gibraltar,GIB,2023,100.0
+Greece,GRC,2023,80.673
+Greenland,GRL,2023,87.94
+Grenada,GRD,2023,37.059
+Guam,GUM,2023,95.166
+Guatemala,GTM,2023,53.098
+Guinea,GIN,2023,38.085
+Guinea-Bissau,GNB,2023,45.466
+Guyana,GUY,2023,27.162
+Haiti,HTI,2023,59.656
+Honduras,HND,2023,60.212
+"Hong Kong SAR, China",HKG,2023,100.0
+Hungary,HUN,2023,72.864
+Iceland,ISL,2023,94.042
+India,IND,2023,36.364
+Indonesia,IDN,2023,58.572
+"Iran, Islamic Rep.",IRN,2023,77.257
+Iraq,IRQ,2023,71.599
+Ireland,IRL,2023,64.466
+Isle of Man,IMN,2023,53.482
+Israel,ISR,2023,92.854
+Italy,ITA,2023,71.973
+Jamaica,JAM,2023,57.378
+Japan,JPN,2023,92.043
+Jordan,JOR,2023,92.02
+Kazakhstan,KAZ,2023,58.179
+Kenya,KEN,2023,29.52
+Kiribati,KIR,2023,57.762
+"Korea, Dem. People's Rep.",PRK,2023,63.203
+"Korea, Rep.",KOR,2023,81.456
+Kosovo,XKX,2023,
+Kuwait,KWT,2023,100.0
+Kyrgyz Republic,KGZ,2023,37.801
+Lao PDR,LAO,2023,38.247
+Latvia,LVA,2023,68.671
+Lebanon,LBN,2023,89.432
+Lesotho,LSO,2023,30.415
+Liberia,LBR,2023,53.567
+Libya,LBY,2023,81.606
+Liechtenstein,LIE,2023,14.617
+Lithuania,LTU,2023,68.694
+Luxembourg,LUX,2023,92.078
+"Macao SAR, China",MAC,2023,100.0
+Madagascar,MDG,2023,40.556
+Malawi,MWI,2023,18.28
+Malaysia,MYS,2023,78.716
+Maldives,MDV,2023,41.971
+Mali,MLI,2023,46.189
+Malta,MLT,2023,94.941
+Marshall Islands,MHL,2023,78.868
+Mauritania,MRT,2023,57.699
+Mauritius,MUS,2023,40.867
+Mexico,MEX,2023,81.582
+"Micronesia, Fed. Sts.",FSM,2023,23.379
+Moldova,MDA,2023,43.373
+Monaco,MCO,2023,100.0
+Mongolia,MNG,2023,69.089
+Montenegro,MNE,2023,68.502
+Morocco,MAR,2023,65.121
+Mozambique,MOZ,2023,38.753
+Myanmar,MMR,2023,32.112
+Namibia,NAM,2023,54.886
+Nauru,NRU,2023,100.0
+Nepal,NPL,2023,21.903
+Netherlands,NLD,2023,93.179
+New Caledonia,NCL,2023,72.719
+New Zealand,NZL,2023,86.985
+Nicaragua,NIC,2023,59.849
+Niger,NER,2023,17.054
+Nigeria,NGA,2023,54.283
+North Macedonia,MKD,2023,59.479
+Northern Mariana Islands,MNP,2023,92.076
+Norway,NOR,2023,83.995
+Oman,OMN,2023,88.4
+Pakistan,PAK,2023,38.04
+Palau,PLW,2023,82.408
+Panama,PAN,2023,69.512
+Papua New Guinea,PNG,2023,13.723
+Paraguay,PRY,2023,63.149
+Peru,PER,2023,78.922
+Philippines,PHL,2023,48.287
+Poland,POL,2023,60.218
+Portugal,PRT,2023,67.906
+Puerto Rico,PRI,2023,93.634
+Qatar,QAT,2023,99.354
+Romania,ROU,2023,54.672
+Russian Federation,RUS,2023,75.331
+Rwanda,RWA,2023,17.892
+Samoa,WSM,2023,17.508
+San Marino,SMR,2023,97.836
+Sao Tome and Principe,STP,2023,76.401
+Saudi Arabia,SAU,2023,84.95
+Senegal,SEN,2023,49.579
+Serbia,SRB,2023,57.113
+Seychelles,SYC,2023,58.82
+Sierra Leone,SLE,2023,44.3
+Singapore,SGP,2023,100.0
+Sint Maarten (Dutch part),SXM,2023,100.0
+Slovak Republic,SVK,2023,54.027
+Slovenia,SVN,2023,56.088
+Solomon Islands,SLB,2023,26.037
+Somalia,SOM,2023,47.92
+South Africa,ZAF,2023,68.819
+South Sudan,SSD,2023,21.195
+Spain,ESP,2023,81.552
+Sri Lanka,LKA,2023,19.211
+St. Kitts and Nevis,KNA,2023,31.096
+St. Lucia,LCA,2023,19.172
+St. Martin (French part),MAF,2023,
+St. Vincent and the Grenadines,VCT,2023,54.299
+Sudan,SDN,2023,36.342
+Suriname,SUR,2023,66.411
+Sweden,SWE,2023,88.738
+Switzerland,CHE,2023,74.202
+Syrian Arab Republic,SYR,2023,57.409
+Tajikistan,TJK,2023,28.234
+Tanzania,TZA,2023,37.409
+Thailand,THA,2023,53.608
+Timor-Leste,TLS,2023,32.456
+Togo,TGO,2023,44.49
+Tonga,TON,2023,23.16
+Trinidad and Tobago,TTO,2023,53.439
+Tunisia,TUN,2023,70.544
+Turkiye,TUR,2023,77.463
+Turkmenistan,TKM,2023,54.003
+Turks and Caicos Islands,TCA,2023,94.247
+Tuvalu,TUV,2023,66.241
+Uganda,UGA,2023,26.771
+Ukraine,UKR,2023,70.095
+United Arab Emirates,ARE,2023,87.779
+United Kingdom,GBR,2023,84.642
+United States,USA,2023,83.298
+Uruguay,URY,2023,95.771
+Uzbekistan,UZB,2023,50.532
+Vanuatu,VUT,2023,25.976
+"Venezuela, RB",VEN,2023,88.438
+Viet Nam,VNM,2023,39.48
+Virgin Islands (U.S.),VIR,2023,96.227
+West Bank and Gaza,PSE,2023,77.582
+"Yemen, Rep.",YEM,2023,39.831
+Zambia,ZMB,2023,46.335
+Zimbabwe,ZWE,2023,32.517
