@@ -40,7 +40,6 @@ This project aims to deliver a comprehensive, interactive visualization tool des
 * Utilized Leaflet and Chart.js to build a responsive web application featuring:
 
   * Interactive choropleth maps dynamically colored based on user-selected indicators.
-  * Top-10 bar charts updating in real-time as users switch between indicators.
 
 ## Project Usage
 
