@@ -50,7 +50,7 @@ This project aims to deliver a comprehensive, interactive visualization tool des
 ## Technologies Used
 
 * **Python:** Pandas, NumPy, Scikit-learn (for data analysis, scaling, PCA, clustering)
-* **JavaScript:** Leaflet, Papa Parse, Chart.js (interactive visualization)
+* **JavaScript:** Leaflet, Chart.js (interactive visualization)
 * **HTML/CSS:** Structure and style for web visualization interface
 
 ## Next Steps and Enhancements
